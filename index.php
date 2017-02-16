@@ -6,7 +6,7 @@
 
     $lead_message = preg_replace( "/\r|\n/", " ", $message);
     // Give below the numbers to recieve SMS
-    $tel_admins = "8089908879,8861864836,8884765615";
+    $tel_admins = "8892644341";
 
 
 
